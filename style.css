@@ -10,9 +10,9 @@ body {
 
 .cabecalho{
         display: flex;
+        justify-content: center;
         background-color: #afadad;
-        padding-bottom: 40px;
-        padding-top: 40px;
+       
         color: black;
         text-align: center;
         border: 5px solid #afadad;
@@ -61,7 +61,21 @@ a:hover{
 
 .gato{
     width: 100px;
-    margin-right: 17%;
+    margin-left: 20px;
     border: 2px solid black;
     border-radius: 7px;
+}
+
+.titulo_serie{
+    margin-bottom: 1em;
+    color: darkorange;
+}
+
+.subtitulo_serie{
+    margin-bottom: 1em;
+    color:coral
+}
+
+.subtitulo{
+    margin-top: 1em;
 }
