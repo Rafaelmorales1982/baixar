@@ -73,9 +73,14 @@ a:hover{
 
 .subtitulo_serie{
     margin-bottom: 1em;
+    margin-top: 1em;
     color:coral
 }
 
 .subtitulo{
     margin-top: 1em;
+}
+
+.texto-paragrafo {
+    font-size: 20px;
 }
